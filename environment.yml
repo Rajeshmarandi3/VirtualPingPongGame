@@ -41,4 +41,3 @@ dependencies:
     - python-dateutil==2.8.2
     - six==1.16.0
     - typing-extensions==4.2.0
-prefix: /home/rajesh/miniconda3/envs/cvzone_env
